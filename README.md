@@ -2,7 +2,9 @@
 
 ## publisher
 1.roslaunch ServoControl ServoControl.launch로 publisher 실행
+
 2.publisher는 서보 모터의 각도를 인풋으로 줌
+
 3.토픽 이름은 /servo
 
 ## subcriber
